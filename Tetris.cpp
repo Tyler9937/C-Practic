@@ -2,6 +2,7 @@
 #include <Windows.h>
 using namespace std;
 
+// Test
 wstring tetromino[7];
 int nFieldWidth = 12;
 int nFieldHeight = 18;
