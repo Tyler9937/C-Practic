@@ -2,7 +2,7 @@
 #include <Windows.h>
 using namespace std;
 
-
+// need to finish
 wstring tetromino[7];
 int nFieldWidth = 12;
 int nFieldHeight = 18;
