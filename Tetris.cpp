@@ -6,7 +6,7 @@ wstring tetromino[7];
 int nFieldWidth = 12;
 int nFieldHeight = 18;
 unsigned char* pField = nullptr;
-
+//
 int nScreenWidth = 80;      // Console Screen Size X (Columns)
 int nScreenHeight = 30;     // Console Screen Size Y (Rows) 
 
